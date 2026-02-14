@@ -1,3 +1,4 @@
 *.json
 *.env
 venv
+app/CipherSpace/__pycache__/agent.cpython-311.pyc
