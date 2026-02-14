@@ -32,4 +32,6 @@ Put link here
 
 ## Screenshots
 
-Put screenshots here
+![Screenshot 1](screenshots/Screen%20Shot%202026-02-14%20at%204.38.37%20PM.png)
+![Screenshot 2](screenshots/Screen%20Shot%202026-02-14%20at%206.12.07%20PM.png)
+![Screenshot 3](screenshots/Screen%20Shot%202026-02-14%20at%206.12.48%20PM.png)
